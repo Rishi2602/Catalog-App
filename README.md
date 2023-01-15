@@ -1,4 +1,4 @@
-# dummy
+# Catalog-app
 
 A new Flutter project.
 
